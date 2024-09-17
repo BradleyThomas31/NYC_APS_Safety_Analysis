@@ -6,6 +6,9 @@ Tableau was used for all data visualizations.
 
 All data was provided by NYC OpenData.
 
+Note: Upon reviewing the pedestrian-vehicle collisions data from OpenData, significant inconsistencies were 
+identified, which may impact the accuracy of the analysis.
+
 Pedestrian Collisions data
 https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Person/f55k-p6yu/about_data
 
